@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "firebase": "^13.4.0"
+    "firebase": "^13.4.0",
+    "tau-prolog": "^0.3.4"
   }
 }
