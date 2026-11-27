@@ -1,0 +1,247 @@
+{
+  "system": "Lumi",
+  "note": "FICTIONAL TEST DATA – invented people, no real personal data. 'tags' and 'title' are test fields: Lumi has no tag field (see test plan finding F-2).",
+  "owner": {
+    "name": "Tomas Verano",
+    "email": "tomas.verano@example.test",
+    "password": "TestOnly#2026",
+    "pin": "1234"
+  },
+  "contacts": [
+    {
+      "name": "Maria Santos",
+      "relation": "business partner (test persona)",
+      "email": "maria.santos@example.test"
+    },
+    {
+      "name": "Isla Verano",
+      "relation": "daughter (age 6, test persona)"
+    }
+  ],
+  "entries": [
+    {
+      "id": "e-001",
+      "date": "2026-01-05T09:00:00",
+      "mood": "calm",
+      "text": "Started the year with a walk by the lake and a list of goals.",
+      "tags": [
+        "personal"
+      ],
+      "shared": false,
+      "title": "New year, new plans"
+    },
+    {
+      "id": "e-002",
+      "date": "2026-01-18T09:00:00",
+      "mood": "happy",
+      "text": "Everyone came over. Mama cooked adobo and Isla showed her drawing.",
+      "tags": [
+        "family"
+      ],
+      "shared": true,
+      "title": "Sunday lunch with the family"
+    },
+    {
+      "id": "e-003",
+      "date": "2026-02-02T09:00:00",
+      "mood": "happy",
+      "text": "Isla was nervous but kept smiling in the water.",
+      "tags": [
+        "family"
+      ],
+      "shared": true,
+      "title": "Isla's first day of swimming class"
+    },
+    {
+      "id": "e-004",
+      "date": "2026-02-14T09:00:00",
+      "mood": "happy",
+      "text": "Small dinner at home, no phones.",
+      "tags": [
+        "family"
+      ],
+      "shared": true,
+      "title": "Dinner with my wife"
+    },
+    {
+      "id": "e-005",
+      "date": "2026-02-27T09:00:00",
+      "mood": "focused",
+      "text": "Agreed on new delivery schedule with the flour supplier.",
+      "tags": [
+        "business"
+      ],
+      "shared": false,
+      "title": "Supplier meeting"
+    },
+    {
+      "id": "e-006",
+      "date": "2026-03-10T09:00:00",
+      "mood": "focused",
+      "text": "Costs are up 8 percent. Need to adjust prices for bread rolls.",
+      "tags": [
+        "business"
+      ],
+      "shared": false,
+      "title": "Bakery budget review"
+    },
+    {
+      "id": "e-007",
+      "date": "2026-03-22T09:00:00",
+      "mood": "excited",
+      "text": "Add Iceland to the list. Target 2029.",
+      "tags": [
+        "bucket-list"
+      ],
+      "shared": false,
+      "title": "Bucket list: see the northern lights"
+    },
+    {
+      "id": "e-008",
+      "date": "2026-04-03T09:00:00",
+      "mood": "focused",
+      "text": "Interviewed three candidates, favorite is Ben Alcantara.",
+      "tags": [
+        "business"
+      ],
+      "shared": false,
+      "title": "Hiring a second baker"
+    },
+    {
+      "id": "e-009",
+      "date": "2026-04-19T09:00:00",
+      "mood": "happy",
+      "text": "Cousins will join. Need a venue for 30 people.",
+      "tags": [
+        "family"
+      ],
+      "shared": true,
+      "title": "Family reunion planning"
+    },
+    {
+      "id": "e-010",
+      "date": "2026-05-01T09:00:00",
+      "mood": "focused",
+      "text": "Planning to pay the equipment loan early if sales stay steady.",
+      "tags": [
+        "business"
+      ],
+      "shared": true,
+      "title": "Loan payment plan"
+    },
+    {
+      "id": "e-011",
+      "date": "2026-05-16T09:00:00",
+      "mood": "happy",
+      "text": "She wants to keep the tooth in a small box.",
+      "tags": [
+        "family"
+      ],
+      "shared": true,
+      "title": "Isla loses her first tooth"
+    },
+    {
+      "id": "e-012",
+      "date": "2026-06-07T09:00:00",
+      "mood": "focused",
+      "text": "Soft opening went well, sold out by noon.",
+      "tags": [
+        "business"
+      ],
+      "shared": false,
+      "title": "Opening the second stall"
+    },
+    {
+      "id": "e-013",
+      "date": "2026-06-28T09:00:00",
+      "mood": "excited",
+      "text": "Bought a cheap guitar. Three chords learned.",
+      "tags": [
+        "bucket-list"
+      ],
+      "shared": false,
+      "title": "Bucket list: learn to play guitar"
+    },
+    {
+      "id": "e-014",
+      "date": "2026-07-12T09:00:00",
+      "mood": "calm",
+      "text": "Rain all day. Read a book and napped.",
+      "tags": [
+        "personal"
+      ],
+      "shared": false,
+      "title": "Quiet day"
+    },
+    {
+      "id": "e-015",
+      "date": "2026-08-09T09:00:00",
+      "mood": "happy",
+      "text": "Surprise cake. She cried happy tears.",
+      "tags": [
+        "family"
+      ],
+      "shared": true,
+      "title": "Mama's birthday"
+    },
+    {
+      "id": "e-016",
+      "date": "2026-08-30T09:00:00",
+      "mood": "focused",
+      "text": "Draft of the profit split with Maria for the new branch.",
+      "tags": [
+        "business"
+      ],
+      "shared": true,
+      "title": "Partner agreement draft"
+    },
+    {
+      "id": "e-017",
+      "date": "2026-09-15T09:00:00",
+      "mood": "worried",
+      "text": "Some nights I worry I won't be around enough for Isla.",
+      "tags": [
+        "personal",
+        "family"
+      ],
+      "shared": false,
+      "title": "Worries about the future"
+    },
+    {
+      "id": "e-018",
+      "date": "2026-10-04T09:00:00",
+      "mood": "focused",
+      "text": "Plan to bake 200 extra boxes for December.",
+      "tags": [
+        "business"
+      ],
+      "shared": false,
+      "title": "Holiday sales plan"
+    },
+    {
+      "id": "e-019",
+      "date": "2026-11-01T09:00:00",
+      "mood": "happy",
+      "text": "She played the recorder. Proudest day this year.",
+      "tags": [
+        "family"
+      ],
+      "shared": true,
+      "title": "Isla's school recital"
+    }
+  ],
+  "letters": [
+    {
+      "id": "l-001",
+      "title": "A letter to my daughter",
+      "text": "Dear Isla, by the time you read this you are grown up. I hope you remember our Sunday lunches, and that you keep drawing. I am proud of you. Love, Papa.",
+      "to": "Isla Verano",
+      "tags": [
+        "family",
+        "letter"
+      ],
+      "created": "2026-11-20",
+      "unlock": "2030-06-15"
+    }
+  ]
+}
